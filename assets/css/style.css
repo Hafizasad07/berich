@@ -8,6 +8,10 @@ body{
     overflow-x: hidden;
 }
 
+.wrapper{
+    overflow-x: hidden;
+}
+
 .bg1-img{
     background-image: url(../images/bg1-img.png);
     background-repeat: no-repeat;
